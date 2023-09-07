@@ -12,6 +12,7 @@
     </style>
 
     <style name="Base.Theme.JokeApp.AppbarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
     <style name="Base.Theme.JokeApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
     <style name="Theme.JokeApp" parent="Base.Theme.JokeApp" />
